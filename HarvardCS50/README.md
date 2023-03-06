@@ -27,9 +27,9 @@ Once you have cloned the repository, you can browse the course materials by open
 ## Resources
 In addition to the course materials included in this repository, there are a number of other resources available to help you learn the material covered in the course. These include:
 
-- The official CS50 website
-- The CS50 YouTube channel
-- The CS50 subreddit
+- The official [CS50 website](https://www.edx.org/cs50)
+- The CS50 [YouTube channel](https://www.youtube.com/user/cs50tv)
+- The CS50 [subreddit](https://www.reddit.com/r/cs50/)
 
 ## Contributing
 If you notice any errors or issues with the course materials, or if you would like to contribute additional resources or materials, please feel free to submit a pull request.

@@ -17,13 +17,6 @@ The course is structured as follows:
 
 Each week's folder contains a set of lectures, problem sets, and other materials that are designed to help you learn the concepts and skills covered in that week.
 
-## Getting Started
-To get started with the course, simply clone this repository to your local machine using the following command:
-
-`git clone https://github.com/[your_username]/HarvardCS50.git`
-
-Once you have cloned the repository, you can browse the course materials by opening the relevant week's folder in your file explorer or text editor.
-
 ## Resources
 In addition to the course materials included in this repository, there are a number of other resources available to help you learn the material covered in the course. These include:
 

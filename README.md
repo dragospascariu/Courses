@@ -22,9 +22,9 @@ The courses in this repository cover a wide range of topics, including:
 ## Contributing
 If you would like to contribute to this repository by adding new courses or updating existing courses, please follow these steps:
 
-1 Fork the repository.
-2 Make your changes and commit them to a new branch.
-3 Submit a pull request.
+1. Fork the repository.
+2. Make your changes and commit them to a new branch.
+3. Submit a pull request.
 
 Your contributions are greatly appreciated.
 

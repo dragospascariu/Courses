@@ -6,7 +6,7 @@ This repository contains a list of courses that can be used to learn new skills.
 To get started, simply clone this repository to your local machine using the following command:
 
 
-`git clone https://github.com/[your_username]/Courses.git`
+`git clone https://github.com/dragospascariu/Courses.git`
 
 ## Topics
 The courses in this repository cover a wide range of topics, including:

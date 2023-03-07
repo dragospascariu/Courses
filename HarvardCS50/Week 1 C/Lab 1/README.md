@@ -7,11 +7,13 @@ This program uses the CS50 Library for C
 ### Ubuntu 
 
 `$ curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash`
+
 `$ sudo apt install libcs50`
 
 ### Fedora
 
 `$ curl -s https://packagecloud.io/install/repositories/cs50/repo/script.rpm.sh | sudo bash`
+
 `$ dnf install libcs50`
 
 ### From Source (Linux and Mac)
